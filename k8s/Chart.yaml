@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_PAYMENT
+name: alice-payment
 description: ALICE Payment
 type: application
 version: 0.1.0
